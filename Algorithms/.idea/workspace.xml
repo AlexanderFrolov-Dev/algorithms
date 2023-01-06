@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="" />
+    <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="Изменил .gitignore">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/array_max_value/ArrayMaxValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/array_max_value/ArrayMaxValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/binary_search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/binary_search/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/bubble_sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/bubble_sort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/iteration_vs_recursion/IterationVsRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/iteration_vs_recursion/IterationVsRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/merge_sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/merge_sort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/quick_sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/quick_sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/rabin_karp/RabinKarpExtended.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/rabin_karp/RabinKarpExtended.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array_max_value/ArrayMaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_max_value/ArrayMaxValue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +59,9 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
@@ -80,12 +99,17 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "last_opened_file_path": "E:/From_Desktop/algorithms/Algorithms",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -93,7 +117,7 @@
       <recent name="merge_sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Recursion">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="IterationVsRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="iteration_vs_recursion.IterationVsRecursion" />
       <module name="Algorithms" />
@@ -138,8 +162,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.IterationVsRecursion" />
         <item itemvalue="Application.Stack" />
       </list>
@@ -157,6 +181,35 @@
       <option name="presentableId" value="Default" />
       <updated>1581243506486</updated>
     </task>
+    <task id="LOCAL-00001" summary="Изменил .gitignore">
+      <created>1673016279139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673016279139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Изменил .gitignore">
+      <created>1673016906759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673016906759</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Изменил .gitignore">
+      <created>1673017523575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673017523575</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Изменил .gitignore">
+      <created>1673018151289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673018151289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -189,6 +242,21 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Изменил .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменил .gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test.java" />

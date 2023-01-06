@@ -1,7 +1,7 @@
 package array_max_value;
 
-public class ArrayMaxValue
-{
+public class ArrayMaxValue {
+    // Не смог найти ошибку.
     public static int getMaxValue(int[] values)
     {
         int maxValue = Integer.MIN_VALUE;
