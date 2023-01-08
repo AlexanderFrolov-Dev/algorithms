@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="Удаление файлов *.class.">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_13_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary_search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bubble_sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubble_sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iteration_vs_recursion/IterationVsRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iteration_vs_recursion/IterationVsRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/merge_sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/merge_sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quick_sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quick_sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rabin_karp/RabinKarpExtended.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rabin_karp/RabinKarpExtended.java" afterDir="false" />
-    </list>
+    <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="Привел код в соответствие конвенции. Написал алгоритм пузырьковой сортировки." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673019014169</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Привел код в соответствие конвенции. Написал алгоритм пузырьковой сортировки.">
+      <created>1673198371165</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673198371165</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,7 +273,8 @@
     <MESSAGE value="Изменил .gitignore" />
     <MESSAGE value="Не смог найти ошибку в классе ArrayMaxValue." />
     <MESSAGE value="Удаление файлов *.class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Удаление файлов *.class." />
+    <MESSAGE value="Привел код в соответствие конвенции. Написал алгоритм пузырьковой сортировки." />
+    <option name="LAST_COMMIT_MESSAGE" value="Привел код в соответствие конвенции. Написал алгоритм пузырьковой сортировки." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test.java" />
