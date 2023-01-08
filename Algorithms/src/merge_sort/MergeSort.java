@@ -1,9 +1,7 @@
 package merge_sort;
 
-public class MergeSort
-{
-    public static void mergeSort(int[] array)
-    {
+public class MergeSort {
+    public static void mergeSort(int[] array) {
         int n = array.length;
         int middle = n / 2;
         int[] leftArray = new int[middle];
@@ -21,8 +19,7 @@ public class MergeSort
         merge(array, leftArray, rightArray);
     }
 
-    private static void merge(int[] array, int[] left, int[] right)
-    {
+    private static void merge(int[] array, int[] left, int[] right) {
         //TODO
     }
 }

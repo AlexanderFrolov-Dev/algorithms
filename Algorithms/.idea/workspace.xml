@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="Изменил .gitignore">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="Удаление файлов *.class.">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_13_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/array_max_value/ArrayMaxValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/array_max_value/ArrayMaxValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/binary_search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/binary_search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/bubble_sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/bubble_sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/iteration_vs_recursion/IterationVsRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/iteration_vs_recursion/IterationVsRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/merge_sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/merge_sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/quick_sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/quick_sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/rabin_karp/RabinKarpExtended.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/rabin_karp/RabinKarpExtended.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array_max_value/ArrayMaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_max_value/ArrayMaxValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binary_search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary_search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bubble_sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubble_sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteration_vs_recursion/IterationVsRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iteration_vs_recursion/IterationVsRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/merge_sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/merge_sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quick_sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quick_sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rabin_karp/RabinKarpExtended.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rabin_karp/RabinKarpExtended.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,14 +103,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "E:/From_Desktop/algorithms/Algorithms",
-    "project.structure.last.edited": "Project",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/From_Desktop/algorithms/Algorithms/libs/junit-4.13.2.jar",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\From_Desktop\algorithms\Algorithms\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\From_Desktop\algorithms\Algorithms\src" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="merge_sort" />
     </key>
@@ -209,7 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673018151289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Не смог найти ошибку в классе ArrayMaxValue.">
+      <created>1673018820582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673018820582</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Удаление файлов *.class.">
+      <created>1673019014169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673019014169</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -256,7 +275,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Изменил .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменил .gitignore" />
+    <MESSAGE value="Не смог найти ошибку в классе ArrayMaxValue." />
+    <MESSAGE value="Удаление файлов *.class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Удаление файлов *.class." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test.java" />
