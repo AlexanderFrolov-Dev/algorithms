@@ -17,6 +17,28 @@ public class QuickSort {
     }
 
     private static int partition(int[] array, int from, int to) {
+        int pivot = array[0];
+        int middleArray = array[(from + to) / 2];
+        int temp = middleArray;
+        middleArray = pivot;
+        array[0] = temp;
+
+        for (int i = 0; i < array.length; i++) {
+            int currentValue = array[i];
+            int replacementNumber;
+            int replacementPosition;
+            int numberAfterPivot;
+            int numberBeforePivot;
+            int positionAfterPivot = i + 1;
+            int positionBeforePivot = i - 1;
+
+            if(currentValue > pivot) {
+                replacementNumber = currentValue;
+                numberAfterPivot = array[positionAfterPivot];
+
+            }
+        }
+
         //TODO: moving values around pivot,
         // return new pivot index
         return 0;
