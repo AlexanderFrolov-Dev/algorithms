@@ -1,5 +1,6 @@
 import array_max_value.ArrayMaxValue;
 import binary_search.BinarySearch;
+import quick_sort.QuickSort;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -41,6 +42,9 @@ public class Main {
 //        System.out.println(binarySearch.search("Саша"));
 //======================================================================================================================
 
-
+//======================================================================================================================
+//        int[] array = {5, 8, 1, 3, 9, 7, 6, 4, 1, 0, 2};
+//        QuickSort.sort(array);
+//======================================================================================================================
     }
 }

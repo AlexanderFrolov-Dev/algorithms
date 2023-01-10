@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="Привел код в соответствие конвенции. Написал алгоритм пузырьковой сортировки.">
+    <list default="true" id="c24eee5d-4ad3-40f0-a8be-df1c4f79f1bf" name="Default Changelist" comment="Начал работать над алгоритмом быстрой сортировки.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/quick_sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quick_sort/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673198371165</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Начал работать над алгоритмом быстрой сортировки.">
+      <created>1673271163166</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673271163166</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -279,7 +287,19 @@
     <MESSAGE value="Не смог найти ошибку в классе ArrayMaxValue." />
     <MESSAGE value="Удаление файлов *.class." />
     <MESSAGE value="Привел код в соответствие конвенции. Написал алгоритм пузырьковой сортировки." />
-    <option name="LAST_COMMIT_MESSAGE" value="Привел код в соответствие конвенции. Написал алгоритм пузырьковой сортировки." />
+    <MESSAGE value="Начал работать над алгоритмом быстрой сортировки." />
+    <option name="LAST_COMMIT_MESSAGE" value="Начал работать над алгоритмом быстрой сортировки." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test.java" />
