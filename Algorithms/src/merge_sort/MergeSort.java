@@ -20,6 +20,21 @@ public class MergeSort {
     }
 
     private static void merge(int[] array, int[] left, int[] right) {
-        //TODO
+        array = new int[left.length + right.length];
+
+        // Классический способ заполнения массива.
+//        for (int i = 0; i < left.length; i++) {
+//            array[i] = left[i];
+//        }
+//
+//        for (int i = left.length; i < array.length; i++) {
+//            array[i] = right[i - left.length];
+//        }
+
+        // Новый способ заполнения массива.
+        System.arraycopy(left, 0, array, 0, left.length);
+
+        if (array.length - left.length >= 0)
+            System.arraycopy(right, left.length - left.length, array, left.length, array.length - left.length);
     }
 }
